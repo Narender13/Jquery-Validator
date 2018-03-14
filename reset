@@ -1,0 +1,2 @@
+var validator = $( "#myform" ).validate();
+validator.resetForm();
